@@ -1,0 +1,4 @@
+<Response>
+  <Say voice="woman">This is a custom alert from Joel. Enjoy!</Say>
+  <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
